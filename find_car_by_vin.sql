@@ -1,0 +1,2 @@
+USE CarDealership;
+SELECT * FROM vehicles WHERE VIN = 'VIN12345678900001';
